@@ -14,7 +14,9 @@ A simple desktop application to track income and expenses using Python, Tkinter,
 3. Dependencies: `matplotlib`
 
 ## Screenshot
-(Add screenshot here)
+## 💻 Project Output
+
+![Project Screenshot](screenshot.png)
 
 ## Author
 Tanishq Bhattacharjee
